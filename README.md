@@ -27,9 +27,9 @@
 
 📚 Software Engineering student @EMSI.
 
-🌱 I’m currently learning : Hadoop, Spring - Angular.
+🌱 I’m currently learning : Devops(CI/CD, docker, jenkins ...) ,Hadoop, Spring - Angular.
 
-🌱 Developing Full Stack apps using [MERN Stack].
+🌱 Developing Full Stack apps using [Java/Angular - MERN Stack].
 
 😎 Quote : "Work harder than you think you did yesterday"
 
